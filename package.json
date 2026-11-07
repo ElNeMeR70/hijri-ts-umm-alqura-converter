@@ -1,0 +1,11 @@
+{
+  "name": "hijri-ts-umm-alqura-converter",
+  "version": "1.0.0",
+  "description": "Exact Umm Al-Qura Astronomical Hijri-Gregorian Bidirectional Converter (محول التاريخ الهجري والميلادي وفق تقويم أم القرى)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
